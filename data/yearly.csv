@@ -1,0 +1,428 @@
+year,store_group,store,language_group,reviews,rating_sum,negative,staff_named,rating_sum_staff_named
+2016,Airport duty free,CDG Terminal 3 duty free,English,1,4,0,0,0.0
+2016,Brand boutique,"Chanel, Champs-Élysées",No text,3,15,0,0,0.0
+2016,Brand boutique,"Chanel, Marais",English,3,15,0,0,0.0
+2016,Brand boutique,"Chanel, Marais",French,5,25,0,0,0.0
+2016,Brand boutique,"Chanel, Marais",No text,2,9,0,0,0.0
+2016,Brand boutique,"Chanel, Marais",Other languages,1,5,0,0,0.0
+2016,Brand boutique,"Dior, 30 Montaigne",Other languages,1,4,0,0,0.0
+2016,Brand boutique,"Guerlain, Champs-Élysées",English,6,27,0,0,0.0
+2016,Brand boutique,"Guerlain, Champs-Élysées",French,8,37,0,0,0.0
+2016,Brand boutique,"Guerlain, Champs-Élysées",No text,13,60,0,0,0.0
+2016,Brand boutique,"Guerlain, Champs-Élysées",Other languages,3,13,0,0,0.0
+2016,Brand boutique,"Kurkdjian, Marais",English,1,5,0,0,0.0
+2016,Brand boutique,"Kurkdjian, Marais",No text,1,4,0,0,0.0
+2016,Brand boutique,"Kurkdjian, rue d'Alger",French,1,4,0,0,0.0
+2016,Brand boutique,"Kurkdjian, rue d'Alger",No text,1,5,0,0,0.0
+2016,Department store,Galeries Lafayette,French,1,5,0,0,0.0
+2016,Department store,Le Bon Marché,English,1,4,0,0,0.0
+2016,Department store,Le Bon Marché,French,1,5,0,0,0.0
+2016,Sephora,"Sephora, Champs-Élysées",English,11,44,2,0,0.0
+2016,Sephora,"Sephora, Champs-Élysées",French,16,63,2,0,0.0
+2016,Sephora,"Sephora, Champs-Élysées",No text,35,148,0,0,0.0
+2016,Sephora,"Sephora, Champs-Élysées",Other languages,5,22,0,0,0.0
+2017,Airport duty free,CDG Terminal 1 duty free,English,2,6,1,0,0.0
+2017,Airport duty free,CDG Terminal 1 duty free,French,1,5,0,0,0.0
+2017,Airport duty free,CDG Terminal 3 duty free,No text,1,3,0,0,0.0
+2017,Brand boutique,"Chanel, Champs-Élysées",English,4,20,0,1,5.0
+2017,Brand boutique,"Chanel, Champs-Élysées",No text,6,28,0,0,0.0
+2017,Brand boutique,"Chanel, Marais",English,2,10,0,0,0.0
+2017,Brand boutique,"Chanel, Marais",French,10,42,2,0,0.0
+2017,Brand boutique,"Chanel, Marais",No text,8,37,1,0,0.0
+2017,Brand boutique,"Chanel, Marais",Other languages,2,9,0,0,0.0
+2017,Brand boutique,"Dior, 30 Montaigne",English,1,5,0,0,0.0
+2017,Brand boutique,"Guerlain, Champs-Élysées",English,15,61,3,0,0.0
+2017,Brand boutique,"Guerlain, Champs-Élysées",French,47,211,3,0,0.0
+2017,Brand boutique,"Guerlain, Champs-Élysées",No text,62,295,1,0,0.0
+2017,Brand boutique,"Guerlain, Champs-Élysées",Other languages,11,51,1,0,0.0
+2017,Brand boutique,"Kurkdjian, Marais",French,1,5,0,0,0.0
+2017,Brand boutique,"Kurkdjian, Marais",No text,1,5,0,0,0.0
+2017,Brand boutique,"Kurkdjian, Marais",Other languages,1,4,0,0,0.0
+2017,Brand boutique,"Kurkdjian, rue d'Alger",English,1,2,1,0,0.0
+2017,Brand boutique,"Kurkdjian, rue d'Alger",French,1,5,0,0,0.0
+2017,Department store,Galeries Lafayette,English,3,15,0,0,0.0
+2017,Department store,Galeries Lafayette,French,8,35,1,0,0.0
+2017,Department store,Galeries Lafayette,Other languages,2,10,0,0,0.0
+2017,Department store,Le Bon Marché,English,1,4,0,0,0.0
+2017,Department store,Le Bon Marché,French,6,26,1,0,0.0
+2017,Department store,Printemps Haussmann,French,5,25,0,0,0.0
+2017,Sephora,"Sephora, Champs-Élysées",English,30,125,1,0,0.0
+2017,Sephora,"Sephora, Champs-Élysées",French,86,331,16,0,0.0
+2017,Sephora,"Sephora, Champs-Élysées",No text,234,1010,11,0,0.0
+2017,Sephora,"Sephora, Champs-Élysées",Other languages,22,96,0,0,0.0
+2018,Airport duty free,CDG Terminal 1 duty free,English,2,2,2,0,0.0
+2018,Airport duty free,CDG Terminal 1 duty free,No text,1,5,0,0,0.0
+2018,Airport duty free,CDG Terminal 3 duty free,English,4,13,1,0,0.0
+2018,Airport duty free,CDG Terminal 3 duty free,French,5,14,2,0,0.0
+2018,Airport duty free,CDG Terminal 3 duty free,No text,6,25,0,0,0.0
+2018,Airport duty free,CDG Terminal 3 duty free,Other languages,1,4,0,0,0.0
+2018,Brand boutique,"Chanel, Marais",English,2,8,0,0,0.0
+2018,Brand boutique,"Chanel, Marais",French,14,58,3,3,15.0
+2018,Brand boutique,"Chanel, Marais",No text,16,68,2,0,0.0
+2018,Brand boutique,"Chanel, Marais",Other languages,2,7,1,0,0.0
+2018,Brand boutique,"Dior, 30 Montaigne",English,1,1,1,0,0.0
+2018,Brand boutique,"Dior, 30 Montaigne",French,2,9,0,0,0.0
+2018,Brand boutique,"Dior, 30 Montaigne",Other languages,1,5,0,0,0.0
+2018,Brand boutique,"Guerlain, Champs-Élysées",English,25,118,1,0,0.0
+2018,Brand boutique,"Guerlain, Champs-Élysées",French,65,302,2,3,15.0
+2018,Brand boutique,"Guerlain, Champs-Élysées",No text,104,487,1,0,0.0
+2018,Brand boutique,"Guerlain, Champs-Élysées",Other languages,27,124,2,0,0.0
+2018,Brand boutique,"Kurkdjian, Marais",English,2,10,0,0,0.0
+2018,Brand boutique,"Kurkdjian, Marais",No text,2,9,0,0,0.0
+2018,Brand boutique,"Kurkdjian, rue d'Alger",English,2,10,0,0,0.0
+2018,Brand boutique,"Kurkdjian, rue d'Alger",No text,4,20,0,0,0.0
+2018,Brand boutique,"Kurkdjian, rue d'Alger",Other languages,3,15,0,0,0.0
+2018,Department store,Galeries Lafayette,English,13,54,2,0,0.0
+2018,Department store,Galeries Lafayette,French,9,40,0,0,0.0
+2018,Department store,Galeries Lafayette,Other languages,1,5,0,0,0.0
+2018,Department store,Le Bon Marché,English,1,5,0,0,0.0
+2018,Department store,Le Bon Marché,French,13,61,0,0,0.0
+2018,Department store,Printemps Haussmann,French,7,31,1,0,0.0
+2018,Sephora,"Sephora, Champs-Élysées",English,42,192,2,0,0.0
+2018,Sephora,"Sephora, Champs-Élysées",French,135,534,20,2,6.0
+2018,Sephora,"Sephora, Champs-Élysées",No text,464,2024,26,0,0.0
+2018,Sephora,"Sephora, Champs-Élysées",Other languages,51,222,2,0,0.0
+2019,Airport duty free,CDG Terminal 1 duty free,English,3,14,0,0,0.0
+2019,Airport duty free,CDG Terminal 1 duty free,No text,4,17,1,0,0.0
+2019,Airport duty free,CDG Terminal 3 duty free,English,3,10,1,0,0.0
+2019,Airport duty free,CDG Terminal 3 duty free,French,9,26,4,0,0.0
+2019,Airport duty free,CDG Terminal 3 duty free,No text,12,44,2,0,0.0
+2019,Brand boutique,"Chanel, Champs-Élysées",English,5,19,1,1,5.0
+2019,Brand boutique,"Chanel, Champs-Élysées",French,11,55,0,0,0.0
+2019,Brand boutique,"Chanel, Champs-Élysées",No text,14,65,1,0,0.0
+2019,Brand boutique,"Chanel, Champs-Élysées",Other languages,5,25,0,0,0.0
+2019,Brand boutique,"Chanel, Marais",English,7,34,0,0,0.0
+2019,Brand boutique,"Chanel, Marais",French,13,58,1,0,0.0
+2019,Brand boutique,"Chanel, Marais",No text,14,67,0,0,0.0
+2019,Brand boutique,"Chanel, Marais",Other languages,3,15,0,0,0.0
+2019,Brand boutique,"Dior, 30 Montaigne",English,1,5,0,0,0.0
+2019,Brand boutique,"Guerlain, Champs-Élysées",English,28,127,3,1,5.0
+2019,Brand boutique,"Guerlain, Champs-Élysées",French,99,459,5,2,10.0
+2019,Brand boutique,"Guerlain, Champs-Élysées",No text,152,727,0,0,0.0
+2019,Brand boutique,"Guerlain, Champs-Élysées",Other languages,30,140,1,0,0.0
+2019,Brand boutique,"Kurkdjian, Marais",English,2,10,0,0,0.0
+2019,Brand boutique,"Kurkdjian, Marais",French,2,10,0,0,0.0
+2019,Brand boutique,"Kurkdjian, Marais",No text,7,35,0,0,0.0
+2019,Brand boutique,"Kurkdjian, Marais",Other languages,1,4,0,0,0.0
+2019,Brand boutique,"Kurkdjian, rue d'Alger",English,10,49,0,0,0.0
+2019,Brand boutique,"Kurkdjian, rue d'Alger",French,4,19,0,0,0.0
+2019,Brand boutique,"Kurkdjian, rue d'Alger",No text,10,48,0,0,0.0
+2019,Brand boutique,"Kurkdjian, rue d'Alger",Other languages,2,10,0,0,0.0
+2019,Department store,Galeries Lafayette,English,9,42,0,0,0.0
+2019,Department store,Galeries Lafayette,French,14,54,3,0,0.0
+2019,Department store,Galeries Lafayette,Other languages,4,17,0,0,0.0
+2019,Department store,Le Bon Marché,English,3,15,0,0,0.0
+2019,Department store,Le Bon Marché,French,12,58,0,0,0.0
+2019,Department store,Printemps Haussmann,English,1,5,0,0,0.0
+2019,Department store,Printemps Haussmann,French,9,41,0,1,5.0
+2019,Department store,Printemps Haussmann,Other languages,1,5,0,0,0.0
+2019,Sephora,"Sephora, Champs-Élysées",English,67,300,4,0,0.0
+2019,Sephora,"Sephora, Champs-Élysées",French,166,676,22,2,9.0
+2019,Sephora,"Sephora, Champs-Élysées",No text,476,2080,19,0,0.0
+2019,Sephora,"Sephora, Champs-Élysées",Other languages,70,308,5,0,0.0
+2020,Airport duty free,CDG Terminal 1 duty free,No text,1,3,0,0,0.0
+2020,Airport duty free,CDG Terminal 3 duty free,French,1,5,0,0,0.0
+2020,Airport duty free,CDG Terminal 3 duty free,No text,2,8,0,0,0.0
+2020,Brand boutique,"Chanel, Champs-Élysées",English,4,20,0,2,10.0
+2020,Brand boutique,"Chanel, Champs-Élysées",French,12,59,0,0,0.0
+2020,Brand boutique,"Chanel, Champs-Élysées",No text,15,72,0,0,0.0
+2020,Brand boutique,"Chanel, Champs-Élysées",Other languages,4,20,0,0,0.0
+2020,Brand boutique,"Chanel, Marais",English,1,5,0,0,0.0
+2020,Brand boutique,"Chanel, Marais",French,4,16,1,2,10.0
+2020,Brand boutique,"Chanel, Marais",No text,10,48,0,0,0.0
+2020,Brand boutique,"Guerlain, Champs-Élysées",English,4,20,0,0,0.0
+2020,Brand boutique,"Guerlain, Champs-Élysées",French,55,258,3,4,20.0
+2020,Brand boutique,"Guerlain, Champs-Élysées",No text,69,317,1,0,0.0
+2020,Brand boutique,"Guerlain, Champs-Élysées",Other languages,9,40,0,0,0.0
+2020,Brand boutique,"Kurkdjian, Marais",English,1,5,0,0,0.0
+2020,Brand boutique,"Kurkdjian, Marais",French,6,28,0,0,0.0
+2020,Brand boutique,"Kurkdjian, Marais",No text,4,19,0,0,0.0
+2020,Brand boutique,"Kurkdjian, rue d'Alger",English,1,5,0,0,0.0
+2020,Brand boutique,"Kurkdjian, rue d'Alger",French,5,25,0,0,0.0
+2020,Brand boutique,"Kurkdjian, rue d'Alger",No text,6,29,0,0,0.0
+2020,Brand boutique,"Kurkdjian, rue d'Alger",Other languages,1,5,0,0,0.0
+2020,Department store,Galeries Lafayette,English,9,42,0,0,0.0
+2020,Department store,Galeries Lafayette,French,11,49,1,0,0.0
+2020,Department store,Galeries Lafayette,Other languages,2,9,0,0,0.0
+2020,Department store,Le Bon Marché,French,7,33,0,1,5.0
+2020,Department store,Printemps Haussmann,French,1,5,0,0,0.0
+2020,Department store,Printemps Maison Beauté,French,1,5,0,0,0.0
+2020,Sephora,"Sephora, Champs-Élysées",English,28,121,4,0,0.0
+2020,Sephora,"Sephora, Champs-Élysées",French,154,633,27,9,40.0
+2020,Sephora,"Sephora, Champs-Élysées",No text,253,1124,11,0,0.0
+2020,Sephora,"Sephora, Champs-Élysées",Other languages,24,108,2,0,0.0
+2021,Brand boutique,"Chanel, Champs-Élysées",English,3,15,0,0,0.0
+2021,Brand boutique,"Chanel, Champs-Élysées",French,8,34,1,0,0.0
+2021,Brand boutique,"Chanel, Champs-Élysées",No text,9,44,0,0,0.0
+2021,Brand boutique,"Chanel, Champs-Élysées",Other languages,1,5,0,0,0.0
+2021,Brand boutique,"Chanel, Marais",English,1,5,0,0,0.0
+2021,Brand boutique,"Chanel, Marais",French,9,41,1,3,15.0
+2021,Brand boutique,"Chanel, Marais",No text,4,20,0,0,0.0
+2021,Brand boutique,"Chanel, Marais",Other languages,2,10,0,0,0.0
+2021,Brand boutique,"Guerlain, Champs-Élysées",English,4,20,0,0,0.0
+2021,Brand boutique,"Guerlain, Champs-Élysées",French,62,270,9,7,34.0
+2021,Brand boutique,"Guerlain, Champs-Élysées",No text,33,145,4,0,0.0
+2021,Brand boutique,"Guerlain, Champs-Élysées",Other languages,6,29,0,0,0.0
+2021,Brand boutique,"Kurkdjian, Marais",English,1,1,1,0,0.0
+2021,Brand boutique,"Kurkdjian, Marais",French,5,25,0,0,0.0
+2021,Brand boutique,"Kurkdjian, Marais",No text,3,14,0,0,0.0
+2021,Brand boutique,"Kurkdjian, rue d'Alger",English,2,10,0,0,0.0
+2021,Brand boutique,"Kurkdjian, rue d'Alger",French,5,24,0,0,0.0
+2021,Brand boutique,"Kurkdjian, rue d'Alger",No text,6,30,0,0,0.0
+2021,Department store,Galeries Lafayette,English,7,35,0,0,0.0
+2021,Department store,Galeries Lafayette,French,23,101,3,2,10.0
+2021,Department store,Le Bon Marché,English,4,20,0,0,0.0
+2021,Department store,Le Bon Marché,French,8,36,0,0,0.0
+2021,Department store,Le Bon Marché,Other languages,1,4,0,0,0.0
+2021,Department store,Printemps Haussmann,English,1,5,0,0,0.0
+2021,Department store,Printemps Haussmann,French,2,10,0,0,0.0
+2021,Department store,Printemps Maison Beauté,French,1,5,0,1,5.0
+2021,Department store,Printemps Maison Beauté,No text,2,7,0,0,0.0
+2021,Department store,Printemps Maison Beauté,Other languages,2,10,0,0,0.0
+2021,Department store,Samaritaine,English,6,26,0,0,0.0
+2021,Department store,Samaritaine,French,51,225,3,2,10.0
+2021,Department store,Samaritaine,Other languages,1,5,0,0,0.0
+2021,Sephora,"Sephora, Champs-Élysées",English,62,259,10,0,0.0
+2021,Sephora,"Sephora, Champs-Élysées",French,310,1258,57,24,117.0
+2021,Sephora,"Sephora, Champs-Élysées",No text,380,1716,14,0,0.0
+2021,Sephora,"Sephora, Champs-Élysées",Other languages,52,239,3,1,5.0
+2022,Airport duty free,CDG Terminal 1 duty free,English,1,1,1,0,0.0
+2022,Airport duty free,CDG Terminal 1 duty free,French,2,10,0,1,5.0
+2022,Airport duty free,CDG Terminal 1 duty free,No text,4,15,1,0,0.0
+2022,Airport duty free,CDG Terminal 1 duty free,Other languages,1,5,0,0,0.0
+2022,Airport duty free,CDG Terminal 3 duty free,English,1,1,1,0,0.0
+2022,Airport duty free,CDG Terminal 3 duty free,French,5,10,4,0,0.0
+2022,Airport duty free,CDG Terminal 3 duty free,No text,2,9,0,0,0.0
+2022,Airport duty free,CDG Terminal 3 duty free,Other languages,1,1,1,0,0.0
+2022,Brand boutique,"Chanel, Champs-Élysées",English,4,15,1,0,0.0
+2022,Brand boutique,"Chanel, Champs-Élysées",French,18,78,2,4,20.0
+2022,Brand boutique,"Chanel, Champs-Élysées",No text,10,50,0,0,0.0
+2022,Brand boutique,"Chanel, Champs-Élysées",Other languages,4,20,0,0,0.0
+2022,Brand boutique,"Chanel, Marais",English,2,10,0,0,0.0
+2022,Brand boutique,"Chanel, Marais",French,6,30,0,2,10.0
+2022,Brand boutique,"Chanel, Marais",No text,5,19,1,0,0.0
+2022,Brand boutique,"Chanel, Marais",Other languages,4,20,0,0,0.0
+2022,Brand boutique,"Dior, 30 Montaigne",English,2,10,0,0,0.0
+2022,Brand boutique,"Dior, 30 Montaigne",French,7,31,0,1,5.0
+2022,Brand boutique,"Dior, 30 Montaigne",Other languages,1,3,0,0,0.0
+2022,Brand boutique,"Guerlain, Champs-Élysées",English,13,64,0,1,4.0
+2022,Brand boutique,"Guerlain, Champs-Élysées",French,69,292,10,3,15.0
+2022,Brand boutique,"Guerlain, Champs-Élysées",No text,38,185,0,0,0.0
+2022,Brand boutique,"Guerlain, Champs-Élysées",Other languages,11,54,0,1,5.0
+2022,Brand boutique,"Kurkdjian, Marais",English,5,25,0,2,10.0
+2022,Brand boutique,"Kurkdjian, Marais",French,8,39,0,0,0.0
+2022,Brand boutique,"Kurkdjian, Marais",No text,5,23,0,0,0.0
+2022,Brand boutique,"Kurkdjian, Marais",Other languages,2,10,0,0,0.0
+2022,Brand boutique,"Kurkdjian, rue d'Alger",English,11,46,2,0,0.0
+2022,Brand boutique,"Kurkdjian, rue d'Alger",French,10,48,0,0,0.0
+2022,Brand boutique,"Kurkdjian, rue d'Alger",No text,3,15,0,0,0.0
+2022,Brand boutique,"Kurkdjian, rue d'Alger",Other languages,1,5,0,0,0.0
+2022,Department store,Galeries Lafayette,English,31,142,0,0,0.0
+2022,Department store,Galeries Lafayette,French,30,139,1,0,0.0
+2022,Department store,Galeries Lafayette,Other languages,4,18,0,0,0.0
+2022,Department store,Le Bon Marché,English,5,25,0,0,0.0
+2022,Department store,Le Bon Marché,French,10,41,2,1,5.0
+2022,Department store,Printemps Haussmann,English,17,84,0,6,30.0
+2022,Department store,Printemps Haussmann,French,174,858,1,49,244.0
+2022,Department store,Printemps Maison Beauté,English,1,4,0,0,0.0
+2022,Department store,Printemps Maison Beauté,French,9,34,3,1,5.0
+2022,Department store,Printemps Maison Beauté,No text,1,4,0,0,0.0
+2022,Department store,Samaritaine,English,5,21,1,0,0.0
+2022,Department store,Samaritaine,French,33,160,0,3,15.0
+2022,Sephora,"Sephora, Champs-Élysées",English,127,536,21,5,25.0
+2022,Sephora,"Sephora, Champs-Élysées",French,409,1612,89,51,245.0
+2022,Sephora,"Sephora, Champs-Élysées",No text,499,2263,20,0,0.0
+2022,Sephora,"Sephora, Champs-Élysées",Other languages,143,666,5,1,5.0
+2023,Airport duty free,CDG Terminal 1 duty free,English,21,95,2,7,35.0
+2023,Airport duty free,CDG Terminal 1 duty free,French,31,137,4,11,53.0
+2023,Airport duty free,CDG Terminal 1 duty free,No text,8,35,0,0,0.0
+2023,Airport duty free,CDG Terminal 1 duty free,Other languages,1,5,0,0,0.0
+2023,Airport duty free,CDG Terminal 3 duty free,English,8,25,3,0,0.0
+2023,Airport duty free,CDG Terminal 3 duty free,French,14,43,5,1,5.0
+2023,Airport duty free,CDG Terminal 3 duty free,No text,9,33,0,0,0.0
+2023,Airport duty free,CDG Terminal 3 duty free,Other languages,3,12,1,0,0.0
+2023,Brand boutique,"Chanel, Champs-Élysées",English,17,70,3,2,10.0
+2023,Brand boutique,"Chanel, Champs-Élysées",French,19,94,0,8,40.0
+2023,Brand boutique,"Chanel, Champs-Élysées",No text,25,119,1,0,0.0
+2023,Brand boutique,"Chanel, Champs-Élysées",Other languages,10,49,0,0,0.0
+2023,Brand boutique,"Chanel, Marais",English,2,8,0,0,0.0
+2023,Brand boutique,"Chanel, Marais",French,12,47,2,0,0.0
+2023,Brand boutique,"Chanel, Marais",No text,4,20,0,0,0.0
+2023,Brand boutique,"Chanel, Marais",Other languages,3,14,0,0,0.0
+2023,Brand boutique,"Dior, 30 Montaigne",English,4,19,0,1,5.0
+2023,Brand boutique,"Dior, 30 Montaigne",French,9,37,2,1,5.0
+2023,Brand boutique,"Dior, 30 Montaigne",Other languages,2,6,1,0,0.0
+2023,Brand boutique,"Guerlain, Champs-Élysées",English,18,82,1,1,5.0
+2023,Brand boutique,"Guerlain, Champs-Élysées",French,102,447,13,9,44.0
+2023,Brand boutique,"Guerlain, Champs-Élysées",No text,67,311,2,0,0.0
+2023,Brand boutique,"Guerlain, Champs-Élysées",Other languages,8,38,0,0,0.0
+2023,Brand boutique,"Kurkdjian, Marais",English,7,31,1,1,5.0
+2023,Brand boutique,"Kurkdjian, Marais",French,9,40,1,2,10.0
+2023,Brand boutique,"Kurkdjian, Marais",No text,5,25,0,0,0.0
+2023,Brand boutique,"Kurkdjian, rue d'Alger",English,8,27,3,0,0.0
+2023,Brand boutique,"Kurkdjian, rue d'Alger",French,9,29,4,0,0.0
+2023,Brand boutique,"Kurkdjian, rue d'Alger",No text,12,52,2,0,0.0
+2023,Brand boutique,"Kurkdjian, rue d'Alger",Other languages,4,19,0,1,5.0
+2023,Department store,Galeries Lafayette,English,46,203,5,0,0.0
+2023,Department store,Galeries Lafayette,French,30,126,3,1,5.0
+2023,Department store,Galeries Lafayette,Other languages,12,56,0,0,0.0
+2023,Department store,Le Bon Marché,English,7,31,0,0,0.0
+2023,Department store,Le Bon Marché,French,19,87,0,0,0.0
+2023,Department store,Le Bon Marché,Other languages,2,10,0,0,0.0
+2023,Department store,Printemps Haussmann,English,24,120,0,5,25.0
+2023,Department store,Printemps Haussmann,French,215,1070,1,60,298.0
+2023,Department store,Printemps Maison Beauté,English,1,3,0,0,0.0
+2023,Department store,Printemps Maison Beauté,French,3,11,1,0,0.0
+2023,Department store,Printemps Maison Beauté,No text,2,6,1,0,0.0
+2023,Department store,Printemps Maison Beauté,Other languages,1,5,0,0,0.0
+2023,Department store,Samaritaine,English,6,24,1,1,5.0
+2023,Department store,Samaritaine,French,27,123,2,2,10.0
+2023,Department store,Samaritaine,Other languages,2,10,0,0,0.0
+2023,Sephora,"Sephora, Champs-Élysées",English,95,373,19,8,40.0
+2023,Sephora,"Sephora, Champs-Élysées",French,388,1612,67,81,399.0
+2023,Sephora,"Sephora, Champs-Élysées",No text,261,1155,17,0,0.0
+2023,Sephora,"Sephora, Champs-Élysées",Other languages,83,353,9,3,15.0
+2024,Airport duty free,CDG Terminal 1 duty free,English,113,547,4,32,160.0
+2024,Airport duty free,CDG Terminal 1 duty free,French,270,1322,7,94,470.0
+2024,Airport duty free,CDG Terminal 1 duty free,No text,14,69,0,0,0.0
+2024,Airport duty free,CDG Terminal 1 duty free,Other languages,21,96,2,5,25.0
+2024,Airport duty free,CDG Terminal 3 duty free,English,6,28,0,0,0.0
+2024,Airport duty free,CDG Terminal 3 duty free,French,25,115,3,6,30.0
+2024,Airport duty free,CDG Terminal 3 duty free,No text,5,20,1,0,0.0
+2024,Airport duty free,CDG Terminal 3 duty free,Other languages,3,15,0,1,5.0
+2024,Brand boutique,"Chanel, Champs-Élysées",English,12,48,3,5,25.0
+2024,Brand boutique,"Chanel, Champs-Élysées",French,12,56,1,2,10.0
+2024,Brand boutique,"Chanel, Champs-Élysées",No text,4,16,1,0,0.0
+2024,Brand boutique,"Chanel, Champs-Élysées",Other languages,6,26,1,0,0.0
+2024,Brand boutique,"Chanel, Marais",English,2,10,0,0,0.0
+2024,Brand boutique,"Chanel, Marais",French,12,54,1,3,15.0
+2024,Brand boutique,"Chanel, Marais",No text,2,10,0,0,0.0
+2024,Brand boutique,"Chanel, Marais",Other languages,2,9,0,0,0.0
+2024,Brand boutique,"Dior, 30 Montaigne",English,6,26,1,2,10.0
+2024,Brand boutique,"Dior, 30 Montaigne",French,13,63,0,1,5.0
+2024,Brand boutique,"Guerlain, Champs-Élysées",English,18,66,6,1,5.0
+2024,Brand boutique,"Guerlain, Champs-Élysées",French,63,246,16,11,55.0
+2024,Brand boutique,"Guerlain, Champs-Élysées",No text,18,89,0,0,0.0
+2024,Brand boutique,"Guerlain, Champs-Élysées",Other languages,6,30,0,1,5.0
+2024,Brand boutique,"Kurkdjian, Marais",English,3,14,0,0,0.0
+2024,Brand boutique,"Kurkdjian, Marais",French,19,83,3,2,10.0
+2024,Brand boutique,"Kurkdjian, Marais",No text,7,32,0,0,0.0
+2024,Brand boutique,"Kurkdjian, rue d'Alger",English,6,28,0,0,0.0
+2024,Brand boutique,"Kurkdjian, rue d'Alger",French,18,58,8,0,0.0
+2024,Brand boutique,"Kurkdjian, rue d'Alger",No text,9,36,1,0,0.0
+2024,Brand boutique,"Kurkdjian, rue d'Alger",Other languages,3,11,1,0,0.0
+2024,Department store,Galeries Lafayette,English,46,208,2,0,0.0
+2024,Department store,Galeries Lafayette,French,32,140,4,1,5.0
+2024,Department store,Galeries Lafayette,Other languages,6,17,3,0,0.0
+2024,Department store,Le Bon Marché,English,7,30,1,1,5.0
+2024,Department store,Le Bon Marché,French,19,76,4,2,10.0
+2024,Department store,Printemps Haussmann,English,25,123,0,7,35.0
+2024,Department store,Printemps Haussmann,French,186,920,2,64,319.0
+2024,Department store,Printemps Maison Beauté,English,1,1,1,0,0.0
+2024,Department store,Printemps Maison Beauté,French,34,152,4,10,50.0
+2024,Department store,Printemps Maison Beauté,No text,2,9,0,0,0.0
+2024,Department store,Samaritaine,English,3,15,0,0,0.0
+2024,Department store,Samaritaine,French,23,99,4,3,14.0
+2024,Department store,Samaritaine,Other languages,2,10,0,1,5.0
+2024,Sephora,"Sephora, Champs-Élysées",English,158,680,25,27,135.0
+2024,Sephora,"Sephora, Champs-Élysées",French,606,2749,62,184,910.0
+2024,Sephora,"Sephora, Champs-Élysées",No text,168,734,14,0,0.0
+2024,Sephora,"Sephora, Champs-Élysées",Other languages,92,429,7,12,60.0
+2025,Airport duty free,CDG Terminal 1 duty free,English,201,985,5,47,235.0
+2025,Airport duty free,CDG Terminal 1 duty free,French,343,1687,6,94,469.0
+2025,Airport duty free,CDG Terminal 1 duty free,No text,44,215,1,0,0.0
+2025,Airport duty free,CDG Terminal 1 duty free,Other languages,58,285,1,8,40.0
+2025,Airport duty free,CDG Terminal 3 duty free,English,6,21,2,0,0.0
+2025,Airport duty free,CDG Terminal 3 duty free,French,13,44,5,5,25.0
+2025,Airport duty free,CDG Terminal 3 duty free,No text,9,41,1,0,0.0
+2025,Airport duty free,CDG Terminal 3 duty free,Other languages,4,15,1,1,5.0
+2025,Brand boutique,"Chanel, Champs-Élysées",English,6,27,1,0,0.0
+2025,Brand boutique,"Chanel, Champs-Élysées",French,18,84,1,3,15.0
+2025,Brand boutique,"Chanel, Champs-Élysées",No text,9,35,2,0,0.0
+2025,Brand boutique,"Chanel, Champs-Élysées",Other languages,3,15,0,0,0.0
+2025,Brand boutique,"Chanel, Marais",English,1,5,0,0,0.0
+2025,Brand boutique,"Chanel, Marais",French,6,18,3,2,10.0
+2025,Brand boutique,"Chanel, Marais",No text,5,23,0,0,0.0
+2025,Brand boutique,"Chanel, Marais",Other languages,2,7,1,0,0.0
+2025,Brand boutique,"Dior, 30 Montaigne",English,3,12,0,0,0.0
+2025,Brand boutique,"Dior, 30 Montaigne",French,11,35,5,3,15.0
+2025,Brand boutique,"Dior, 30 Montaigne",Other languages,5,22,1,0,0.0
+2025,Brand boutique,"Guerlain, Champs-Élysées",English,36,134,12,3,15.0
+2025,Brand boutique,"Guerlain, Champs-Élysées",French,74,311,14,14,67.0
+2025,Brand boutique,"Guerlain, Champs-Élysées",No text,24,112,1,0,0.0
+2025,Brand boutique,"Guerlain, Champs-Élysées",Other languages,11,47,2,1,5.0
+2025,Brand boutique,"Kurkdjian, Marais",English,11,55,0,3,15.0
+2025,Brand boutique,"Kurkdjian, Marais",French,27,131,1,7,35.0
+2025,Brand boutique,"Kurkdjian, Marais",No text,7,31,1,0,0.0
+2025,Brand boutique,"Kurkdjian, Marais",Other languages,1,5,0,0,0.0
+2025,Brand boutique,"Kurkdjian, rue d'Alger",English,11,47,2,1,1.0
+2025,Brand boutique,"Kurkdjian, rue d'Alger",French,38,146,11,6,30.0
+2025,Brand boutique,"Kurkdjian, rue d'Alger",No text,10,45,1,0,0.0
+2025,Brand boutique,"Kurkdjian, rue d'Alger",Other languages,5,25,0,0,0.0
+2025,Department store,Galeries Lafayette,English,64,301,2,3,15.0
+2025,Department store,Galeries Lafayette,French,44,182,8,3,15.0
+2025,Department store,Galeries Lafayette,Other languages,16,73,1,0,0.0
+2025,Department store,Le Bon Marché,English,10,45,1,0,0.0
+2025,Department store,Le Bon Marché,French,17,72,3,2,9.0
+2025,Department store,Le Bon Marché,Other languages,1,5,0,0,0.0
+2025,Department store,Printemps Haussmann,English,22,102,2,3,15.0
+2025,Department store,Printemps Haussmann,French,230,1125,5,92,457.0
+2025,Department store,Printemps Haussmann,Other languages,3,11,1,0,0.0
+2025,Department store,Printemps Maison Beauté,English,4,20,0,1,5.0
+2025,Department store,Printemps Maison Beauté,French,28,133,2,13,65.0
+2025,Department store,Printemps Maison Beauté,No text,6,27,0,0,0.0
+2025,Department store,Printemps Maison Beauté,Other languages,1,1,1,0,0.0
+2025,Department store,Samaritaine,English,9,30,3,3,15.0
+2025,Department store,Samaritaine,French,29,130,3,3,14.0
+2025,Department store,Samaritaine,Other languages,4,19,0,0,0.0
+2025,Sephora,"Sephora, Champs-Élysées",English,301,1412,18,88,436.0
+2025,Sephora,"Sephora, Champs-Élysées",French,1372,6417,94,530,2622.0
+2025,Sephora,"Sephora, Champs-Élysées",No text,209,965,8,0,0.0
+2025,Sephora,"Sephora, Champs-Élysées",Other languages,206,972,9,48,239.0
+2026,Airport duty free,CDG Terminal 1 duty free,English,195,954,5,51,254.0
+2026,Airport duty free,CDG Terminal 1 duty free,French,239,1184,2,113,564.0
+2026,Airport duty free,CDG Terminal 1 duty free,No text,15,72,0,0,0.0
+2026,Airport duty free,CDG Terminal 1 duty free,Other languages,59,292,0,15,75.0
+2026,Airport duty free,CDG Terminal 3 duty free,English,7,17,4,1,5.0
+2026,Airport duty free,CDG Terminal 3 duty free,French,29,130,3,12,60.0
+2026,Airport duty free,CDG Terminal 3 duty free,No text,36,157,1,0,0.0
+2026,Airport duty free,CDG Terminal 3 duty free,Other languages,5,19,1,0,0.0
+2026,Brand boutique,"Chanel, Champs-Élysées",English,8,32,1,3,13.0
+2026,Brand boutique,"Chanel, Champs-Élysées",French,22,105,1,7,35.0
+2026,Brand boutique,"Chanel, Champs-Élysées",No text,9,41,1,0,0.0
+2026,Brand boutique,"Chanel, Champs-Élysées",Other languages,3,15,0,1,5.0
+2026,Brand boutique,"Chanel, Marais",English,6,11,5,0,0.0
+2026,Brand boutique,"Chanel, Marais",French,10,38,3,2,10.0
+2026,Brand boutique,"Chanel, Marais",No text,1,3,0,0,0.0
+2026,Brand boutique,"Dior, 30 Montaigne",English,6,26,1,1,5.0
+2026,Brand boutique,"Dior, 30 Montaigne",French,8,34,2,1,5.0
+2026,Brand boutique,"Guerlain, Champs-Élysées",English,59,268,6,18,90.0
+2026,Brand boutique,"Guerlain, Champs-Élysées",French,122,512,24,33,165.0
+2026,Brand boutique,"Guerlain, Champs-Élysées",No text,25,120,1,0,0.0
+2026,Brand boutique,"Guerlain, Champs-Élysées",Other languages,17,73,3,1,5.0
+2026,Brand boutique,"Kurkdjian, Marais",English,10,50,0,7,35.0
+2026,Brand boutique,"Kurkdjian, Marais",French,16,64,4,7,35.0
+2026,Brand boutique,"Kurkdjian, Marais",No text,2,7,1,0,0.0
+2026,Brand boutique,"Kurkdjian, Marais",Other languages,2,10,0,0,0.0
+2026,Brand boutique,"Kurkdjian, rue d'Alger",English,23,96,5,3,15.0
+2026,Brand boutique,"Kurkdjian, rue d'Alger",French,23,94,5,8,40.0
+2026,Brand boutique,"Kurkdjian, rue d'Alger",No text,6,28,0,0,0.0
+2026,Brand boutique,"Kurkdjian, rue d'Alger",Other languages,8,29,3,0,0.0
+2026,Department store,Galeries Lafayette,English,56,269,1,3,15.0
+2026,Department store,Galeries Lafayette,French,35,151,5,6,30.0
+2026,Department store,Galeries Lafayette,Other languages,11,51,0,3,15.0
+2026,Department store,Le Bon Marché,English,12,52,2,1,5.0
+2026,Department store,Le Bon Marché,French,14,62,2,2,10.0
+2026,Department store,Printemps Haussmann,English,15,72,1,5,25.0
+2026,Department store,Printemps Haussmann,French,72,322,9,23,115.0
+2026,Department store,Printemps Haussmann,Other languages,1,5,0,0,0.0
+2026,Department store,Printemps Maison Beauté,English,2,10,0,1,5.0
+2026,Department store,Printemps Maison Beauté,French,31,138,4,18,90.0
+2026,Department store,Printemps Maison Beauté,Other languages,1,5,0,0,0.0
+2026,Department store,Samaritaine,English,15,69,1,2,10.0
+2026,Department store,Samaritaine,French,54,247,5,18,90.0
+2026,Department store,Samaritaine,Other languages,5,18,2,0,0.0
+2026,Sephora,"Sephora, Champs-Élysées",English,176,760,28,40,200.0
+2026,Sephora,"Sephora, Champs-Élysées",French,1063,5019,66,486,2424.0
+2026,Sephora,"Sephora, Champs-Élysées",No text,147,672,7,0,0.0
+2026,Sephora,"Sephora, Champs-Élysées",Other languages,123,572,7,22,110.0

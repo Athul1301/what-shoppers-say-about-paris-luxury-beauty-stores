@@ -1,0 +1,54 @@
+theme,tone,phrase,count
+"Warm, expert advice",Positive,excellent advice,787
+"Warm, expert advice",Positive,great advice,279
+"Warm, expert advice",Positive,helpful advice,208
+"Warm, expert advice",Positive,good advice,119
+"Warm, expert advice",Positive,friendly staff,98
+"Warm, expert advice",Positive,super friendly,82
+Rude or unhelpful staff,Negative,unpleasant experience,20
+Rude or unhelpful staff,Negative,extremely unpleasant,17
+Rude or unhelpful staff,Negative,extremely rude,8
+Rude or unhelpful staff,Negative,particularly unpleasant,7
+Rude or unhelpful staff,Negative,incredibly rude,6
+Rude or unhelpful staff,Negative,completely ignored,6
+Queues and crowding,Positive,extremely crowded,10
+Queues and crowding,Positive,incredibly crowded,7
+Queues and crowding,Positive,always crowded,7
+Queues and crowding,Positive,while waiting,5
+Queues and crowding,Positive,less crowded,5
+Queues and crowding,Positive,large crowds,5
+Queues and crowding,Negative,waited minutes,11
+Queues and crowding,Negative,after waiting,6
+Queues and crowding,Negative,still waiting,5
+Queues and crowding,Negative,long queue,5
+Queues and crowding,Negative,long wait,5
+"Gifts, samples, engraving",Positive,gift wrapping,50
+"Gifts, samples, engraving",Positive,engraving service,13
+"Gifts, samples, engraving",Positive,free samples,9
+"Gifts, samples, engraving",Positive,perfume samples,9
+"Gifts, samples, engraving",Positive,bottle engraved,8
+"Gifts, samples, engraving",Positive,free engraving,7
+"Gifts, samples, engraving",Negative,no samples,17
+"Gifts, samples, engraving",Negative,gift wrapping,16
+"Gifts, samples, engraving",Negative,perfume samples,10
+"Gifts, samples, engraving",Negative,single sample,9
+"Gifts, samples, engraving",Negative,get samples,6
+"Gifts, samples, engraving",Negative,one sample,5
+Price and value,Positive,good prices,15
+Price and value,Positive,reasonable prices,11
+Price and value,Positive,more expensive,9
+Price and value,Positive,expensive than,9
+Price and value,Positive,price range,5
+Price and value,Positive,good price,5
+Price and value,Negative,more expensive,10
+Price and value,Negative,expensive than,8
+Stock availability,Positive,couldn't find,10
+Stock availability,Negative,couldn't find,10
+Language spoken,Negative,don't speak,5
+Tax refund,Positive,tax refund,58
+Tax refund,Positive,tax free,18
+Tax refund,Positive,vat refund,10
+Tax refund,Positive,tax refunds,5
+Tax refund,Positive,tax return,5
+Tax refund,Negative,tax refund,36
+Tax refund,Negative,tax free,10

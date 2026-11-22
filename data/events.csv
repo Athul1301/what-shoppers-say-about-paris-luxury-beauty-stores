@@ -1,8 +1,15 @@
-start,end,event,source
-2020-03-17,2020-05-11,Lockdown 1: non-essential shops closed,https://www.insee.fr/fr/statistiques/4797670
-2020-10-30,2020-11-28,Lockdown 2: non-essential shops closed,https://www.info.gouv.fr/discours/11902-point-de-situation-sur-la-lutte-contre-la-covid-19
-2021-01-01,,Tax refund minimum cut from EUR 175.01 to EUR 100.01,https://www.douane.gouv.fr/fiche/la-detaxe-en-france-pour-les-touristes-pablo
-2021-04-03,2021-05-19,Lockdown 3: shops reopen 19 May,https://www.economie.gouv.fr/commerce-conditions-reouverture
-2023-03-01,,China resumes group tours to France (March 2023),https://skift.com/2023/08/10/china-resumes-outbound-group-trips-to-u-s-uk-japan
-2024-07-26,2024-08-11,Paris Olympic Games,https://www.info.gouv.fr/grand-dossier/paris-2024-olympic-and-paralympic-games
-2025-10-12,,EU Entry/Exit System starts at borders,https://home-affairs.ec.europa.eu/news/new-entryexit-system-went-live-12-october-2025-10-13_en
+start,end,type,event,source
+2018-11-17,,Unrest,"Yellow vest protests begin (Saturday marches, often on the Champs-Élysées)",https://www.publicsenat.fr/article/politique/la-crise-des-gilets-jaunes-en-dix-dates-139738
+2019-03-16,,Unrest,Shops looted and burned on the Champs-Élysées,https://www.publicsenat.fr/actualites/non-classe/saccage-des-champs-elysees-80-enseignes-touchees-le-premier-ministre-interpelle
+2019-12-05,,Unrest,Pension-reform strikes start; Paris metro and trains largely stopped,https://www.publicsenat.fr/actualites/politique/retraites-la-greve-dure-dans-les-transports-nouvelle-epreuve-de-force-en-vue
+2020-03-17,2020-05-11,Health,Lockdown 1: non-essential shops closed,https://www.insee.fr/fr/statistiques/4797670
+2020-10-30,2020-11-28,Health,Lockdown 2: non-essential shops closed,https://www.info.gouv.fr/discours/11902-point-de-situation-sur-la-lutte-contre-la-covid-19
+2021-01-01,,Policy,Tax refund minimum cut from EUR 175.01 to EUR 100.01,https://www.douane.gouv.fr/fiche/la-detaxe-en-france-pour-les-touristes-pablo
+2021-04-03,2021-05-19,Health,Lockdown 3: shops reopen 19 May,https://www.economie.gouv.fr/commerce-conditions-reouverture
+2021-06-09,,Tourism,France reopens to vaccinated foreign tourists,https://diplomatie.gouv.fr/en/coming-to-france/coming-to-france-your-covid-19-questions-answered/coronavirus-statements/article/reopening-france-s-borders-from-9-june-4-jun-2021
+2022-03-15,,Policy,EU bans luxury goods exports to Russia,https://finance.ec.europa.eu/news/ukraine-eu-agrees-fourth-package-restrictive-measures-against-russia-2022-03-15_en
+2022-07-12,,Currency,Euro falls to parity with the US dollar (cheaper Paris for Americans),https://www.aljazeera.com/economy/2022/7/12/euro-hits-us-dollar-parity-for-first-time-in-20-years
+2023-01-08,,Tourism,China ends quarantine on return; Chinese can travel abroad again,https://www.aljazeera.com/news/2023/1/8/china-reopens-borders-to-quarantine-free-travel
+2023-03-01,,Tourism,China resumes group tours to France (March 2023),https://skift.com/2023/08/10/china-resumes-outbound-group-trips-to-u-s-uk-japan
+2024-07-26,2024-08-11,Big event,Paris Olympic Games,https://www.info.gouv.fr/grand-dossier/paris-2024-olympic-and-paralympic-games
+2025-10-12,,Policy,EU Entry/Exit System starts at borders,https://home-affairs.ec.europa.eu/news/new-entryexit-system-went-live-12-october-2025-10-13_en
