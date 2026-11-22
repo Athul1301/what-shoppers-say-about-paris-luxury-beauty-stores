@@ -1,0 +1,345 @@
+year,store_group,theme,reviews_with_text,mentions,negative_mentions
+2016,Airport duty free,Price and value,1,0,0
+2016,Airport duty free,Advice and service,1,0,0
+2016,Airport duty free,Language spoken,1,0,0
+2016,Airport duty free,Tax refund,1,0,0
+2016,Airport duty free,Queues and crowding,1,0,0
+2016,Airport duty free,Stock availability,1,0,0
+2016,Airport duty free,Authenticity and trust,1,0,0
+2016,Airport duty free,"Gifts, samples, engraving",1,0,0
+2016,Brand boutique,Price and value,29,2,0
+2016,Brand boutique,Advice and service,29,11,0
+2016,Brand boutique,Language spoken,29,0,0
+2016,Brand boutique,Tax refund,29,0,0
+2016,Brand boutique,Queues and crowding,29,0,0
+2016,Brand boutique,Stock availability,29,0,0
+2016,Brand boutique,Authenticity and trust,29,0,0
+2016,Brand boutique,"Gifts, samples, engraving",29,0,0
+2016,Department store,Price and value,3,1,0
+2016,Department store,Advice and service,3,0,0
+2016,Department store,Language spoken,3,0,0
+2016,Department store,Tax refund,3,0,0
+2016,Department store,Queues and crowding,3,0,0
+2016,Department store,Stock availability,3,1,0
+2016,Department store,Authenticity and trust,3,0,0
+2016,Department store,"Gifts, samples, engraving",3,0,0
+2016,Sephora,Price and value,32,2,0
+2016,Sephora,Advice and service,32,11,1
+2016,Sephora,Language spoken,32,0,0
+2016,Sephora,Tax refund,32,1,1
+2016,Sephora,Queues and crowding,32,1,0
+2016,Sephora,Stock availability,32,0,0
+2016,Sephora,Authenticity and trust,32,0,0
+2016,Sephora,"Gifts, samples, engraving",32,1,0
+2017,Airport duty free,Price and value,3,1,1
+2017,Airport duty free,Advice and service,3,1,0
+2017,Airport duty free,Language spoken,3,0,0
+2017,Airport duty free,Tax refund,3,0,0
+2017,Airport duty free,Queues and crowding,3,0,0
+2017,Airport duty free,Stock availability,3,0,0
+2017,Airport duty free,Authenticity and trust,3,0,0
+2017,Airport duty free,"Gifts, samples, engraving",3,0,0
+2017,Brand boutique,Price and value,96,6,1
+2017,Brand boutique,Advice and service,96,43,7
+2017,Brand boutique,Language spoken,96,0,0
+2017,Brand boutique,Tax refund,96,0,0
+2017,Brand boutique,Queues and crowding,96,1,1
+2017,Brand boutique,Stock availability,96,0,0
+2017,Brand boutique,Authenticity and trust,96,0,0
+2017,Brand boutique,"Gifts, samples, engraving",96,3,0
+2017,Department store,Price and value,25,3,1
+2017,Department store,Advice and service,25,5,1
+2017,Department store,Language spoken,25,1,0
+2017,Department store,Tax refund,25,0,0
+2017,Department store,Queues and crowding,25,1,1
+2017,Department store,Stock availability,25,0,0
+2017,Department store,Authenticity and trust,25,0,0
+2017,Department store,"Gifts, samples, engraving",25,0,0
+2017,Sephora,Price and value,138,10,0
+2017,Sephora,Advice and service,138,59,10
+2017,Sephora,Language spoken,138,1,0
+2017,Sephora,Tax refund,138,1,1
+2017,Sephora,Queues and crowding,138,25,5
+2017,Sephora,Stock availability,138,1,1
+2017,Sephora,Authenticity and trust,138,1,0
+2017,Sephora,"Gifts, samples, engraving",138,6,1
+2018,Airport duty free,Price and value,12,3,3
+2018,Airport duty free,Advice and service,12,3,2
+2018,Airport duty free,Language spoken,12,0,0
+2018,Airport duty free,Tax refund,12,0,0
+2018,Airport duty free,Queues and crowding,12,1,0
+2018,Airport duty free,Stock availability,12,1,0
+2018,Airport duty free,Authenticity and trust,12,0,0
+2018,Airport duty free,"Gifts, samples, engraving",12,0,0
+2018,Brand boutique,Price and value,146,5,0
+2018,Brand boutique,Advice and service,146,54,5
+2018,Brand boutique,Language spoken,146,0,0
+2018,Brand boutique,Tax refund,146,0,0
+2018,Brand boutique,Queues and crowding,146,3,2
+2018,Brand boutique,Stock availability,146,1,0
+2018,Brand boutique,Authenticity and trust,146,0,0
+2018,Brand boutique,"Gifts, samples, engraving",146,3,0
+2018,Department store,Price and value,44,5,1
+2018,Department store,Advice and service,44,10,1
+2018,Department store,Language spoken,44,0,0
+2018,Department store,Tax refund,44,0,0
+2018,Department store,Queues and crowding,44,1,1
+2018,Department store,Stock availability,44,0,0
+2018,Department store,Authenticity and trust,44,0,0
+2018,Department store,"Gifts, samples, engraving",44,1,1
+2018,Sephora,Price and value,228,10,0
+2018,Sephora,Advice and service,228,72,12
+2018,Sephora,Language spoken,228,1,0
+2018,Sephora,Tax refund,228,0,0
+2018,Sephora,Queues and crowding,228,18,2
+2018,Sephora,Stock availability,228,5,0
+2018,Sephora,Authenticity and trust,228,0,0
+2018,Sephora,"Gifts, samples, engraving",228,7,2
+2019,Airport duty free,Price and value,15,6,3
+2019,Airport duty free,Advice and service,15,3,1
+2019,Airport duty free,Language spoken,15,0,0
+2019,Airport duty free,Tax refund,15,1,0
+2019,Airport duty free,Queues and crowding,15,0,0
+2019,Airport duty free,Stock availability,15,0,0
+2019,Airport duty free,Authenticity and trust,15,0,0
+2019,Airport duty free,"Gifts, samples, engraving",15,0,0
+2019,Brand boutique,Price and value,223,8,1
+2019,Brand boutique,Advice and service,223,88,6
+2019,Brand boutique,Language spoken,223,2,1
+2019,Brand boutique,Tax refund,223,2,0
+2019,Brand boutique,Queues and crowding,223,8,1
+2019,Brand boutique,Stock availability,223,1,0
+2019,Brand boutique,Authenticity and trust,223,0,0
+2019,Brand boutique,"Gifts, samples, engraving",223,12,0
+2019,Department store,Price and value,53,6,0
+2019,Department store,Advice and service,53,7,0
+2019,Department store,Language spoken,53,0,0
+2019,Department store,Tax refund,53,2,0
+2019,Department store,Queues and crowding,53,3,0
+2019,Department store,Stock availability,53,1,1
+2019,Department store,Authenticity and trust,53,0,0
+2019,Department store,"Gifts, samples, engraving",53,1,0
+2019,Sephora,Price and value,303,14,5
+2019,Sephora,Advice and service,303,94,13
+2019,Sephora,Language spoken,303,2,0
+2019,Sephora,Tax refund,303,1,0
+2019,Sephora,Queues and crowding,303,35,5
+2019,Sephora,Stock availability,303,2,1
+2019,Sephora,Authenticity and trust,303,0,0
+2019,Sephora,"Gifts, samples, engraving",303,14,6
+2020,Airport duty free,Price and value,1,0,0
+2020,Airport duty free,Advice and service,1,0,0
+2020,Airport duty free,Language spoken,1,0,0
+2020,Airport duty free,Tax refund,1,0,0
+2020,Airport duty free,Queues and crowding,1,0,0
+2020,Airport duty free,Stock availability,1,0,0
+2020,Airport duty free,Authenticity and trust,1,0,0
+2020,Airport duty free,"Gifts, samples, engraving",1,0,0
+2020,Brand boutique,Price and value,107,1,0
+2020,Brand boutique,Advice and service,107,57,3
+2020,Brand boutique,Language spoken,107,0,0
+2020,Brand boutique,Tax refund,107,0,0
+2020,Brand boutique,Queues and crowding,107,0,0
+2020,Brand boutique,Stock availability,107,1,1
+2020,Brand boutique,Authenticity and trust,107,1,0
+2020,Brand boutique,"Gifts, samples, engraving",107,1,0
+2020,Department store,Price and value,31,6,0
+2020,Department store,Advice and service,31,6,1
+2020,Department store,Language spoken,31,0,0
+2020,Department store,Tax refund,31,0,0
+2020,Department store,Queues and crowding,31,1,0
+2020,Department store,Stock availability,31,0,0
+2020,Department store,Authenticity and trust,31,0,0
+2020,Department store,"Gifts, samples, engraving",31,0,0
+2020,Sephora,Price and value,206,9,3
+2020,Sephora,Advice and service,206,97,16
+2020,Sephora,Language spoken,206,0,0
+2020,Sephora,Tax refund,206,0,0
+2020,Sephora,Queues and crowding,206,13,3
+2020,Sephora,Stock availability,206,2,2
+2020,Sephora,Authenticity and trust,206,1,1
+2020,Sephora,"Gifts, samples, engraving",206,13,4
+2021,Brand boutique,Price and value,109,1,0
+2021,Brand boutique,Advice and service,109,60,9
+2021,Brand boutique,Language spoken,109,1,0
+2021,Brand boutique,Tax refund,109,1,0
+2021,Brand boutique,Queues and crowding,109,4,0
+2021,Brand boutique,Stock availability,109,1,0
+2021,Brand boutique,Authenticity and trust,109,0,0
+2021,Brand boutique,"Gifts, samples, engraving",109,7,3
+2021,Department store,Price and value,107,11,1
+2021,Department store,Advice and service,107,19,4
+2021,Department store,Language spoken,107,0,0
+2021,Department store,Tax refund,107,1,0
+2021,Department store,Queues and crowding,107,6,2
+2021,Department store,Stock availability,107,1,1
+2021,Department store,Authenticity and trust,107,0,0
+2021,Department store,"Gifts, samples, engraving",107,2,0
+2021,Sephora,Price and value,424,20,7
+2021,Sephora,Advice and service,424,193,41
+2021,Sephora,Language spoken,424,1,1
+2021,Sephora,Tax refund,424,0,0
+2021,Sephora,Queues and crowding,424,39,8
+2021,Sephora,Stock availability,424,8,2
+2021,Sephora,Authenticity and trust,424,2,1
+2021,Sephora,"Gifts, samples, engraving",424,22,10
+2022,Airport duty free,Price and value,11,3,2
+2022,Airport duty free,Advice and service,11,4,1
+2022,Airport duty free,Language spoken,11,0,0
+2022,Airport duty free,Tax refund,11,0,0
+2022,Airport duty free,Queues and crowding,11,1,1
+2022,Airport duty free,Stock availability,11,0,0
+2022,Airport duty free,Authenticity and trust,11,0,0
+2022,Airport duty free,"Gifts, samples, engraving",11,0,0
+2022,Brand boutique,Price and value,178,7,2
+2022,Brand boutique,Advice and service,178,94,9
+2022,Brand boutique,Language spoken,178,1,0
+2022,Brand boutique,Tax refund,178,1,0
+2022,Brand boutique,Queues and crowding,178,5,2
+2022,Brand boutique,Stock availability,178,1,1
+2022,Brand boutique,Authenticity and trust,178,1,0
+2022,Brand boutique,"Gifts, samples, engraving",178,12,4
+2022,Department store,Price and value,319,9,1
+2022,Department store,Advice and service,319,148,2
+2022,Department store,Language spoken,319,1,0
+2022,Department store,Tax refund,319,1,0
+2022,Department store,Queues and crowding,319,8,1
+2022,Department store,Stock availability,319,3,0
+2022,Department store,Authenticity and trust,319,2,0
+2022,Department store,"Gifts, samples, engraving",319,6,1
+2022,Sephora,Price and value,679,44,9
+2022,Sephora,Advice and service,679,313,67
+2022,Sephora,Language spoken,679,6,3
+2022,Sephora,Tax refund,679,6,3
+2022,Sephora,Queues and crowding,679,63,22
+2022,Sephora,Stock availability,679,13,8
+2022,Sephora,Authenticity and trust,679,0,0
+2022,Sephora,"Gifts, samples, engraving",679,36,18
+2023,Airport duty free,Price and value,78,6,2
+2023,Airport duty free,Advice and service,78,36,8
+2023,Airport duty free,Language spoken,78,1,1
+2023,Airport duty free,Tax refund,78,4,1
+2023,Airport duty free,Queues and crowding,78,4,1
+2023,Airport duty free,Stock availability,78,1,1
+2023,Airport duty free,Authenticity and trust,78,1,1
+2023,Airport duty free,"Gifts, samples, engraving",78,2,2
+2023,Brand boutique,Price and value,243,11,3
+2023,Brand boutique,Advice and service,243,125,21
+2023,Brand boutique,Language spoken,243,4,0
+2023,Brand boutique,Tax refund,243,3,1
+2023,Brand boutique,Queues and crowding,243,20,9
+2023,Brand boutique,Stock availability,243,2,0
+2023,Brand boutique,Authenticity and trust,243,2,2
+2023,Brand boutique,"Gifts, samples, engraving",243,17,3
+2023,Department store,Price and value,395,17,2
+2023,Department store,Advice and service,395,196,6
+2023,Department store,Language spoken,395,0,0
+2023,Department store,Tax refund,395,9,1
+2023,Department store,Queues and crowding,395,17,1
+2023,Department store,Stock availability,395,8,3
+2023,Department store,Authenticity and trust,395,2,1
+2023,Department store,"Gifts, samples, engraving",395,6,1
+2023,Sephora,Price and value,566,32,10
+2023,Sephora,Advice and service,566,312,54
+2023,Sephora,Language spoken,566,8,3
+2023,Sephora,Tax refund,566,2,1
+2023,Sephora,Queues and crowding,566,61,21
+2023,Sephora,Stock availability,566,12,9
+2023,Sephora,Authenticity and trust,566,1,1
+2023,Sephora,"Gifts, samples, engraving",566,19,7
+2024,Airport duty free,Price and value,438,11,5
+2024,Airport duty free,Advice and service,438,255,9
+2024,Airport duty free,Language spoken,438,2,0
+2024,Airport duty free,Tax refund,438,3,1
+2024,Airport duty free,Queues and crowding,438,12,2
+2024,Airport duty free,Stock availability,438,1,0
+2024,Airport duty free,Authenticity and trust,438,0,0
+2024,Airport duty free,"Gifts, samples, engraving",438,2,1
+2024,Brand boutique,Price and value,201,6,4
+2024,Brand boutique,Advice and service,201,128,31
+2024,Brand boutique,Language spoken,201,1,0
+2024,Brand boutique,Tax refund,201,3,0
+2024,Brand boutique,Queues and crowding,201,12,4
+2024,Brand boutique,Stock availability,201,4,2
+2024,Brand boutique,Authenticity and trust,201,1,1
+2024,Brand boutique,"Gifts, samples, engraving",201,18,2
+2024,Department store,Price and value,384,20,2
+2024,Department store,Advice and service,384,201,16
+2024,Department store,Language spoken,384,3,2
+2024,Department store,Tax refund,384,4,2
+2024,Department store,Queues and crowding,384,21,6
+2024,Department store,Stock availability,384,3,1
+2024,Department store,Authenticity and trust,384,2,1
+2024,Department store,"Gifts, samples, engraving",384,12,5
+2024,Sephora,Price and value,856,19,5
+2024,Sephora,Advice and service,856,545,58
+2024,Sephora,Language spoken,856,8,5
+2024,Sephora,Tax refund,856,6,1
+2024,Sephora,Queues and crowding,856,45,14
+2024,Sephora,Stock availability,856,12,6
+2024,Sephora,Authenticity and trust,856,0,0
+2024,Sephora,"Gifts, samples, engraving",856,47,18
+2025,Airport duty free,Price and value,625,15,6
+2025,Airport duty free,Advice and service,625,342,10
+2025,Airport duty free,Language spoken,625,4,0
+2025,Airport duty free,Tax refund,625,4,2
+2025,Airport duty free,Queues and crowding,625,6,1
+2025,Airport duty free,Stock availability,625,4,1
+2025,Airport duty free,Authenticity and trust,625,1,0
+2025,Airport duty free,"Gifts, samples, engraving",625,6,0
+2025,Brand boutique,Price and value,269,11,9
+2025,Brand boutique,Advice and service,269,172,39
+2025,Brand boutique,Language spoken,269,3,2
+2025,Brand boutique,Tax refund,269,1,0
+2025,Brand boutique,Queues and crowding,269,13,6
+2025,Brand boutique,Stock availability,269,3,2
+2025,Brand boutique,Authenticity and trust,269,1,1
+2025,Brand boutique,"Gifts, samples, engraving",269,31,10
+2025,Department store,Price and value,482,23,5
+2025,Department store,Advice and service,482,261,19
+2025,Department store,Language spoken,482,1,0
+2025,Department store,Tax refund,482,12,1
+2025,Department store,Queues and crowding,482,28,6
+2025,Department store,Stock availability,482,4,0
+2025,Department store,Authenticity and trust,482,2,1
+2025,Department store,"Gifts, samples, engraving",482,17,6
+2025,Sephora,Price and value,1879,34,12
+2025,Sephora,Advice and service,1879,1269,67
+2025,Sephora,Language spoken,1879,20,3
+2025,Sephora,Tax refund,1879,9,6
+2025,Sephora,Queues and crowding,1879,70,12
+2025,Sephora,Stock availability,1879,26,10
+2025,Sephora,Authenticity and trust,1879,6,0
+2025,Sephora,"Gifts, samples, engraving",1879,51,15
+2026,Airport duty free,Price and value,534,16,4
+2026,Airport duty free,Advice and service,534,296,9
+2026,Airport duty free,Language spoken,534,3,0
+2026,Airport duty free,Tax refund,534,0,0
+2026,Airport duty free,Queues and crowding,534,8,1
+2026,Airport duty free,Stock availability,534,4,1
+2026,Airport duty free,Authenticity and trust,534,1,1
+2026,Airport duty free,"Gifts, samples, engraving",534,5,2
+2026,Brand boutique,Price and value,343,15,10
+2026,Brand boutique,Advice and service,343,235,53
+2026,Brand boutique,Language spoken,343,4,1
+2026,Brand boutique,Tax refund,343,2,1
+2026,Brand boutique,Queues and crowding,343,14,9
+2026,Brand boutique,Stock availability,343,3,1
+2026,Brand boutique,Authenticity and trust,343,3,1
+2026,Brand boutique,"Gifts, samples, engraving",343,41,13
+2026,Department store,Price and value,324,14,7
+2026,Department store,Advice and service,324,161,27
+2026,Department store,Language spoken,324,2,1
+2026,Department store,Tax refund,324,8,1
+2026,Department store,Queues and crowding,324,20,5
+2026,Department store,Stock availability,324,3,1
+2026,Department store,Authenticity and trust,324,2,0
+2026,Department store,"Gifts, samples, engraving",324,14,8
+2026,Sephora,Price and value,1362,19,7
+2026,Sephora,Advice and service,1362,924,61
+2026,Sephora,Language spoken,1362,12,7
+2026,Sephora,Tax refund,1362,6,3
+2026,Sephora,Queues and crowding,1362,54,13
+2026,Sephora,Stock availability,1362,12,4
+2026,Sephora,Authenticity and trust,1362,5,1
+2026,Sephora,"Gifts, samples, engraving",1362,55,17
