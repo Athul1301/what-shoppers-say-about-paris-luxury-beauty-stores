@@ -4,6 +4,8 @@
 
 The answer is written for a retail or market intelligence team: which stores lead, which topics move the star rating, how visitors differ from locals, and how the picture changed through the protests, COVID, tax-refund rules and the return of tourists.
 
+**[Explore it interactively](https://athul1301.github.io/what-shoppers-say-about-paris-luxury-beauty-stores/interactive/):** a map, a 2016–2026 timeline, and an audit with an action plan for each store ([how to use it](#interactive-story)).
+
 ![League table](images/1_league_table.png)
 
 ## Key findings
@@ -13,6 +15,35 @@ The answer is written for a retail or market intelligence team: which stores lea
 3. **The leaders are the calmest stores, not the most local ones.** Printemps Haussmann (4.84) and CDG Terminal 1 duty free (4.82) get about 0.5 staff complaints per 100 written reviews; the bottom four get 4 to 6. CDG Terminal 1 has 43% international reviewers and is still second, so tourists are not what pulls a rating down.
 4. **Visitors want different things.** Reviews in English and other languages mention the tax refund about 10 times more often than French reviews, the language spoken 7 to 14 times more, and price 2 to 3.5 times more. Warm advice is praised in 35% of French reviews but only 21% of reviews in other languages.
 5. **Google ratings are drifting up for a reason that is not service.** Reviews that thank a named sales associate went from under 1% of reviews before 2020 to about a third in 2026, and stores often ask for them. Without them, the 2026 rating is 4.45 instead of 4.63, close to the 2019 level.
+
+## Interactive story
+
+**[Open the interactive page](https://athul1301.github.io/what-shoppers-say-about-paris-luxury-beauty-stores/interactive/)** (works in any browser, no install)
+
+The same analysis as a single interactive web page, written as if a consultancy had read every review and come back with advice for each store. It is built for someone who has two minutes and wants to see the findings, then go deeper on one store.
+
+![Storefront street](images/6_interactive_street.png)
+
+**What is on the page, from top to bottom**
+
+| Part | What it shows | What you can do |
+|---|---|---|
+| Opening | The best and worst store: 4.84 against 3.72 stars | Read the question the project answers |
+| Map | The 14 stores on a map of Paris, sized by number of reviews and coloured by rating | Switch between the Google rating and the rating without thank-you reviews; click a store to fly into its audit |
+| Ten years at the counter | Rating, share of visitors and thank-you reviews from 2016 to 2026, with protests, lockdowns, the tax-refund rule and the Olympics marked | Scroll through six short steps, then pick any store or store type and hover the events |
+| Pick a door | The 14 stores drawn as Paris shop fronts, from best to worst rated | Click a shop front: the doors open and take you inside that store's audit |
+| Inside the store | A store audit: what we found, where the store loses stars, and nine recommended actions | Switch actions on to build a plan, change the assumed effect of each one, use the recommended plan, or print the audit |
+
+![Store audit and action plan](images/7_interactive_audit.png)
+
+**How the advice works**
+
+- *What we found* and *Where the stars go* come straight from the data: each store's complaints per 100 written reviews, compared with the best store, and the star cost of each topic from the regression below.
+- Each recommended action fixes one or two topics and comes with a timeline (first 30 days, 90 days or 6 months), a cost level and a KPI to track.
+- How much an action reduces complaints is an assumption, not something the reviews can show. Each card states it (for example "cuts 50% of these complaints") and has a slider to test a more or less optimistic case, next to the best case where the complaints disappear completely.
+- The new rating = today's rating + star cost of each topic × share of reviews that mention it × the assumed cut. Reviews without text are left unchanged. It shows the direction and rough size of an improvement, not a forecast.
+
+**Open it on your own computer.** Download `interactive/index.html` and double-click it. It is one self-contained file (data and font included), so it works offline. Like the rest of this repository, it only contains aggregated figures, no review text.
 
 ## The dashboard
 
@@ -113,6 +144,7 @@ Tools: Python (pandas, scikit-learn, matplotlib), Apify, Power BI.
 
 ```
 data/          summary tables used by the dashboard
+interactive/   the interactive story and store audit (one HTML file)
 notebooks/     the three analysis notebooks
 powerbi/       the Power BI project (zip)
 images/        dashboard screenshots
