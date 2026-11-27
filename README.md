@@ -4,6 +4,8 @@
 
 The answer is written for a retail or market intelligence team: which stores lead, which topics move the star rating, how visitors differ from locals, and how the picture changed through the protests, COVID, tax-refund rules and the return of tourists.
 
+*Independent student project. Not affiliated with, commissioned or endorsed by any of the brands or stores named. Based only on public Google reviews; figures are estimates.*
+
 **[Explore it interactively](https://athul1301.github.io/what-shoppers-say-about-paris-luxury-beauty-stores/interactive/):** a map, a 2016–2026 timeline, and an audit with an action plan for each store ([how to use it](#interactive-story)).
 
 ![League table](images/1_league_table.png)
@@ -42,6 +44,8 @@ The same analysis as a single interactive web page, written as if a consultancy 
 - Each recommended action fixes one or two topics and comes with a timeline (first 30 days, 90 days or 6 months), a cost level and a KPI to track.
 - How much an action reduces complaints is an assumption, not something the reviews can show. Each card states it (for example "cuts 50% of these complaints") and has a slider to test a more or less optimistic case, next to the best case where the complaints disappear completely.
 - The new rating = today's rating + star cost of each topic × share of reviews that mention it × the assumed cut. Reviews without text are left unchanged. It shows the direction and rough size of an improvement, not a forecast.
+
+The store audits and recommendations are our suggestions from public reviews, not the stores' own plans or views.
 
 **Open it on your own computer.** Download `interactive/index.html` and double-click it. It is one self-contained file (data and font included), so it works offline. Like the rest of this repository, it only contains aggregated figures, no review text.
 
