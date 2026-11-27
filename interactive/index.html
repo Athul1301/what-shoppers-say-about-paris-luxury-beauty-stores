@@ -24,7 +24,7 @@ p{max-width:36em}
 section{padding:120px 0 40px}
 
 /* HERO */
-.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:60px 0}
+.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding-top:60px;padding-bottom:60px}
 .hero .q{font-size:clamp(22px,2.4vw,30px);font-weight:500;max-width:26em;margin:0 0 28px}
 .duel{display:grid;grid-template-columns:1fr 1fr;gap:4vw;align-items:end}
 .score{font-stretch:75%;font-weight:800;font-size:clamp(120px,21vw,300px);line-height:.8;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
@@ -39,7 +39,7 @@ section{padding:120px 0 40px}
 .hi-bar .fill{color:var(--mint)} .lo-bar .fill{color:var(--lip)}
 .hero .after{margin-top:56px;font-size:21px;max-width:34em}
 .hero .after b{font-weight:700}
-.scrollhint{margin-top:40px;font-size:16px;color:var(--ink2);text-decoration:none;display:inline-block;border-bottom:2px solid var(--lip)}
+.scrollhint{align-self:flex-start;margin-top:40px;font-size:16px;color:var(--ink2);text-decoration:none;display:inline-block;border-bottom:2px solid var(--lip)}
 
 /* MAP */
 .mapgrid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(280px,1fr);gap:40px;margin-top:48px;align-items:start}
@@ -237,7 +237,7 @@ input[type=range]::-moz-range-thumb{width:18px;height:18px;border-radius:50%;bac
 <div class="tip" id="tip" role="tooltip"></div>
 
 <header class="hero wrap">
-  <p class="q">Two places to buy the same perfume in Paris. 16,705 Google reviews later, one is the best-rated beauty counter in the city and the other is the worst.</p>
+  <p class="q">Two places to buy the same perfume in Paris. 16,705 Google reviews later, one is the highest-rated of the 14 stores we studied and the other the lowest-rated.</p>
   <div class="duel">
     <div>
       <div class="score hi" data-to="4.84">0.00</div>
@@ -252,6 +252,7 @@ input[type=range]::-moz-range-thumb{width:18px;height:18px;border-radius:50%;bac
   </div>
   <p class="after">The gap is not price, queues or tourists. It is <b>how people are treated at the counter</b>. This page follows 14 stores over ten years, then gives each one a plan to fix it.</p>
   <a class="scrollhint" href="#where">Start with the map</a>
+  <p class="note" style="margin-top:28px;max-width:40em">Independent student project. Not affiliated with, commissioned or endorsed by any of the brands or stores named. Based only on public Google reviews; figures are estimates.</p>
 </header>
 
 <section id="where" class="wrap">
@@ -297,7 +298,7 @@ input[type=range]::-moz-range-thumb{width:18px;height:18px;border-radius:50%;bac
 
 <section id="street" class="wrap">
   <h2>Pick a door</h2>
-  <p class="lede">The 14 stores as a street, from best-rated to worst. The awning shows each store's rating. Open a door to read our audit of that store and build its improvement plan.</p>
+  <p class="lede">The 14 stores as a street, from highest to lowest rated. The awning shows each store's rating. Open a door to read our audit of that store and build its improvement plan.</p>
   <div class="streetwrap">
     <div class="street" id="streetTrack" role="list"></div>
     <div class="sidewalk" aria-hidden="true"></div>
@@ -328,7 +329,7 @@ input[type=range]::-moz-range-thumb{width:18px;height:18px;border-radius:50%;bac
         <div id="diag"></div>
       </div>
       <h3 style="font-size:40px;margin:40px 0 6px">Our recommendations</h3>
-      <p class="note" style="margin:0 0 16px;max-width:44em">Switch actions on to build the plan. The star cost of each complaint comes from the data. How much an action cuts it is our assumption, shown on each card: move it to test a more or less optimistic case.</p>
+      <p class="note" style="margin:0 0 16px;max-width:44em">Independent student project. Not affiliated with, commissioned or endorsed by any of the brands or stores named. Based only on public Google reviews; figures are estimates. The recommendations are our suggestions, not the store's plans. Switch actions on to build the plan. The star cost of each complaint comes from the data. How much an action cuts it is our assumption, shown on each card: move it to test a more or less optimistic case.</p>
       <div id="actions"></div>
     </div>
     <aside class="result" id="result" aria-live="polite">
@@ -355,6 +356,7 @@ input[type=range]::-moz-range-thumb{width:18px;height:18px;border-radius:50%;bac
 <section class="method wrap">
   <details>
     <summary>How the numbers work</summary>
+    <p><b>Independent student project. Not affiliated with, commissioned or endorsed by any of the brands or stores named. Based only on public Google reviews; figures are estimates.</b></p>
     <p>16,705 public Google Maps reviews of 14 Paris luxury beauty points of sale, January 2016 to November 2026. For department stores and Dior, only reviews about beauty are kept. 12,502 reviews have text; each was tagged for nine topics with keyword rules.</p>
     <p>The star effect of each topic comes from a linear regression of the rating on the topics mentioned, the store, the review language and whether a staff member is named. In the simulator, cutting a topic by X% removes X% of the reviews that mention it and adds back its average effect. Reviews without text are left unchanged, so a store with many star-only reviews moves less. It is an estimate of direction and size, not a forecast.</p>
     <p>"Visitors" are reviews written in English or another language that is not French, as a share of written reviews.</p>
